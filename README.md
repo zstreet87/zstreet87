@@ -1,3 +1,3 @@
 # Hi there 👋!
 
-This is my work github account. [Here](https://github.com/zstreet87/zstreet87.git) is my personal github account.
+This is my work github account. [Here](https://github.com/zstreeter) is my personal github account.
